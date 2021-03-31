@@ -1,0 +1,9 @@
+networkx~=2.5
+requests~=2.24.0
+pythonping~=1.0.15
+numpy~=1.19.1
+flask~=1.1.2
+random-open-port~=0.0.3
+urllib3~=1.25.11
+colorlog~=4.7.2
+matplotlib~=3.3.1
